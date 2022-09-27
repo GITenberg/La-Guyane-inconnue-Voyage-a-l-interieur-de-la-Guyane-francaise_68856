@@ -1,11 +1,16 @@
 _repo: La-Guyane-inconnue-Voyage-a-l-interieur-de-la-Guyane-francaise_68856
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68856-h/images/cover.jpg
 creator:
   author:
     agent_name: Bordeaux, Albert
     gutenberg_agent_id: '54983'
     url: http://www.gutenberg.org/2009/agents/54983
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68856#La-Guyane-inconnue-Voyage-a-l-interieur-de-la-Guyane-francaise
 gutenberg_issued: '2022-08-28'
 identifiers:
   gutenberg: '68856'
